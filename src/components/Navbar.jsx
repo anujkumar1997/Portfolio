@@ -31,14 +31,14 @@ export const Navbar = () => {
 
   return (
     <div className="flex justify-between px-4 items-center text-white  bg-neutral-950 bg-[radial-gradient(ellipse_80%_80%_at_50%_-20%,rgba(120,119,198,0.3),rgba(255,255,255,0))] w-full h-20 fixed z-50">
-      <div className="text-3xl font-bold ml-2">MISHU</div>
+      <div className="text-3xl font-bold ml-2">Anuj Kumar</div>
 
       {/* Desktop Menu */}
       <ul className="hidden md:flex">
         {links.map((link) => (
           <li
             key={link.id}
-            className="text-1.5xl px-4 capitalize cursor-pointer text-gray-500 hover:scale-105 duration-200"
+            className="text-1.5xl px-4 capitalize cursor-pointer text-white-500 hover:scale-105 duration-200"
           >
             <Link to={link.data} smooth duration={500}>{link.data}</Link>
 

@@ -14,17 +14,12 @@ export const About = () => {
         </div>
 
         <p className="text-xl sm:text-2xl mt-4">
-          I'm Mishu Dhar Chando, a dedicated educator and technology enthusiast
-          passionate about sharing my knowledge of Machine Learning, Deep
-          Learning, and Natural Language Processing. As the CEO of Knowledge
-          Doctor, I've created a platform where learners can explore these
-          complex topics in a fun and accessible way. With a strong foundation
-          in computer science from the University of Science and Technology,
-          Chittagong, Bangladesh, I've been dedicated to bridging the gap
-          between theory and practical application. My goal is to empower
-          individuals to harness the potential of AI and data science to solve
-          real-world problems. Join me on this exciting journey as we explore
-          the fascinating world of AI together.
+          I'm Anuj Kumar — a pragmatic and results-driven professional with a strong background in Business Analysis, IT support, and project management. 
+          I’ve worked with organizations like PHSA, University Canada West, and NTT DATA, building skills in stakeholder engagement, system configuration, and solving complex problems.
+          I hold certifications including CCNA, CAPM, and AZ-104, and I’m currently preparing for the CCBA exam. 
+          I recently completed a post-graduate program in Machine Learning and AI from Purdue University, and I enjoy working on real-world projects using tools like Power BI, OpenCV, TensorFlow, and Python.
+          I’m also volunteering with the City of Surrey’s Emergency Support Services and constantly learning new ways to use technology for good. 
+          My goal is to contribute to meaningful projects and grow as a Machine Learning Engineer.Learning, and Natural Language Processing.
         </p>
       </div>
     </div>
